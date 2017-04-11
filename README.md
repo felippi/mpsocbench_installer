@@ -1,5 +1,5 @@
 # mpsocbench_installer
-Instalor para o MPSoCBench e dependências.
+Instalador para o MPSoCBench e dependências.
 
 Testado em Ubuntu 14.04 e 16.04 ambos em x64
 
